@@ -34,7 +34,7 @@
 <br />
 <br />
 ---
-  <b>Please check my Portfolio page! It contains bunch of stuff I worked on so far!</b>
+  <b>Please check my Repos! They contain bunch of stuff I worked on so far!</b>
 ---
   
   <br />
