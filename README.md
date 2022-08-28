@@ -3,7 +3,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/kefistefi/" target="_blank"><img align="left" alt="Stefan | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+
 
 <br />
 <br />
