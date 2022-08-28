@@ -1,5 +1,5 @@
 
-## Hello there! I'm <a href="https://www.linkedin.com/in/kefistefi/" target="_blank">Stefan</a>!
+## Hello there! I'm <a href=#" target="_blank">Stefan</a>!
 
 
 
